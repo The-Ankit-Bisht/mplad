@@ -18,7 +18,7 @@ def get_master_data():
 
 df = get_master_data()
 
-st.title("🤖 AI-Powered Natural Language Query Assistant (Groq)")
+st.title("🤖 AI-Powered Natural Language Query Assistant")
 st.markdown("Ask natural language questions to query project records, expenditures, and risk patterns.")
 
 # Sidebar Configuration & Filters
